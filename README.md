@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/0977-squares-of-a-sorted-array) |
 | [0016-3sum-closest](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -32,4 +33,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
