@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/0977-squares-of-a-sorted-array) |
 | [0016-3sum-closest](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/0016-3sum-closest) |
 | [0136-single-number](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/0136-single-number) |
+| [1260-shift-2d-grid](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/1260-shift-2d-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/0680-valid-palindrome-ii) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/sanskratishuklaa/475-Days-Dsa-Grind/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
